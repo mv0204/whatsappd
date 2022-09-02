@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "758159406790",
+    "project_id": "firedw-89e6c",
+    "storage_bucket": "firedw-89e6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758159406790:android:d847035652696d30f909c7",
+        "android_client_info": {
+          "package_name": "com.example.firedw"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758159406790-flqk4scm0k8ol9h7o8nsll1enb2gqll8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlwHxTgbIy_FPx1oYPOtBZm-OfAY5nmBI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758159406790-flqk4scm0k8ol9h7o8nsll1enb2gqll8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
